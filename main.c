@@ -1,4 +1,4 @@
-# C-epoch-time-calc
+// C epoch time calculator 
 
 #include <stdio.h>
 #include <time.h>
